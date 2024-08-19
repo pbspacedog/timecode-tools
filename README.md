@@ -12,8 +12,7 @@ allows you to adjust all your timecodes by a negative value.
 
 ### set-timecode.py
 
-is for setting all timecodes in the bin to the same value.
-^ Make sure you back up your clips if in doubt because you can't reverse this one.
+is for setting all timecodes in the bin to the same value. Make sure you back up your clips if in doubt because you can't reverse this one.
 
 ### timecode-calc.py
 
