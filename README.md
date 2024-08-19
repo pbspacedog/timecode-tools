@@ -27,7 +27,8 @@ Read the comments at the tops of each script for more info on how to use them.
 
 The "set-timecode.py" script is derivative of the "tcreset.py" script in the project
 ChangeClipTimecode by Igor Riđanović: https://github.com/IgorRidanovic/ChangeClipTimecode
+
 When I tried to run Igor's script it didn't work - perhaps because my current version of Resolve is 18.6.
-So I fixed it and made it work for me before creating the other scripts, more tailored to my use case.
+So I fixed it to work for my version of Resolve before creating the other scripts, more tailored to my use case.
 
 Thank you Igor Riđanović for your initial code which made this project possible.
