@@ -4,7 +4,7 @@
 
 ### add-frames.py
 
-Allows you to adjust all your timecodes by a positive value.
+allows you to adjust all your timecodes by a positive value.
 
 ### subtract-frames.py
 
@@ -23,7 +23,7 @@ is for calculating how many frames you need to add or subtract to get to the tim
 
 Read the comments at the tops of each script for more info on how to use them.
 
-## Acknowledgements
+## Acknowledgement
 
 The "set-timecode.py" script is derivative of the "tcreset.py" script in the project
 ChangeClipTimecode by Igor Riđanović: https://github.com/IgorRidanovic/ChangeClipTimecode
